@@ -1,5 +1,5 @@
 package Enums;
 
 public enum TipoCombustible {
-	NAFTA, DIESEL;
+	NAFTA, DIESEL, GNC;
 }
